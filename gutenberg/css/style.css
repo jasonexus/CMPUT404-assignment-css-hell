@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+p {
+  color: #3959ff;
+  font-weight: 900;
+  font-size: medium;
+}
+
+.vsc-initialized {
+  background-color: #fafafa;
+  color: '#1f1f1f' !important;
+}
+
+img {
+  border-radius: 8px;
+  border-color: chocolate;
+  border-width: 4px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+  
+  .intro-text {
+      text-align: center;
+      font-weight: bold !important;
+  }
+
+  .license {
+      text-align: center;
+      font-weight: 100 !important;
+  }
+
+  a {
+      color: 'gold' !important;
+  }
+
+  .contents {
+      text-align: center;
+      font-size: x-large;
+  }
+
+  .illustrations {
+      text-align: center;
+      font-size: x-small;
+      font-weight: 200;
+      font-style: oblique;
+  }
+
+  header {
+      font-size: 4em;
+  }
+
+  body {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  i {
+      color: rosybrown;
+  }
