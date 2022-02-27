@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
 p {
   color: #3959ff;
   font-weight: 900;
@@ -67,6 +69,7 @@ img {
 
   body {
       font-family: Georgia, 'Times New Roman', Times, serif;
+      background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
   }
 
   i {

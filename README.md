@@ -32,6 +32,7 @@ Part 1 Modifications
 - I changed all the paths to the required images for all of the html files since I am using an images folder inside the ./gutenberg
 - Changed the link tag to style the css from an external stylesheet. Instead of href="coverpage", the href is now "stylesheet"
 - For 1.html and 2.html, I wrapped the contents section inside a div tag with the class named "contents" which I then centered. I did the same for the illustrations section for both html files and gave the div the class name "illustrations"
+- I added a shaking animation for the images that shakes infinitely
 
 Part 1 CSS Sources
 =================
