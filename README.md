@@ -53,3 +53,4 @@ CSS Sources
 - Google Fonts, Google, https://fonts.google.com/specimen/Inter?query=inter. 
 - Google Fonts, Google, https://fonts.google.com/specimen/Comic+Neue?query=comic%2Bneue. 
 - “Text-Underline-Offset - CSS: Cascading Style Sheets: MDN.” CSS: Cascading Style Sheets | MDN, https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset. 
+- CSS Background-Image Property, https://www.w3schools.com/cssref/pr_background-image.asp.
